@@ -1,4 +1,4 @@
-#!/home/devasc/devnet-day1-IS31-akhmetov/devnet-day1-IS31-akhmetov/.venv/bin/python3
+#!/home/devasc/devnet-day1-IS31-akhmetov/devnet-day1-IS31-akhmetov/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

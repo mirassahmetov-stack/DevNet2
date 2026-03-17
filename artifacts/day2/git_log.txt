@@ -1,0 +1,16 @@
+* 4a7aace (feature/day2-readme-B) Conflict source B
+| * b6a5fe2 (feature/day2-readme-A) Change A
+| | * c1c62c7 (origin/main, main) Main state
+| | * 4be0ac8 Update main
+| |/  
+|/|   
+* | 6f813b1 Update README B
+|/  
+* b746ecb Update README A
+* 29c725d chore: create folder structure and files for Day 2
+* be67cf3 feat: add PyYAML dependency for Day 2
+| * 3eaaa81 (HEAD -> feature/day2-dataformats, origin/feature/day2-dataformats) feat: save day2 script before conflict task
+| * aa1f1ce refactor: add PyYAML to requirements.txt for Day 2
+|/  
+* 0b379fb chore: setup venv and dependencies
+* 138a840 feat: project structure and initial scripts

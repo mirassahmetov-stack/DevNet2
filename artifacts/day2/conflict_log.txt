@@ -1,0 +1,5 @@
+On branch main
+You have unmerged paths.
+  (fix conflicts and run 'git commit')
+Unmerged paths:
+  both modified:   README.md

@@ -1,4 +1,5 @@
 requests
 pytest
 jsonschema
-python-dotenv
+python-dotenvPyYAML
+PyYAML

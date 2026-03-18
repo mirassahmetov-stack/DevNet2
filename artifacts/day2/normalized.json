@@ -1,10 +1,608 @@
 {
-  "response": {
-    "status": "success",
-    "data": {
-      "title": "DevNet Day 2 Lab Report",
-      "student": "Akhmetov Miras",
-      "lab_id": "D2-FORMATS"
-    }
-  }
+    "student": {
+        "name": "Akhmetov Miras",
+        "token_hash8": "1fa08bd"
+    },
+    "books": [
+        {
+            "title": "Right-sized neutral archive",
+            "author": "John Clayton",
+            "year": "1976",
+            "isbn": "978-0-475-23495-7"
+        },
+        {
+            "title": "Up-sized context-sensitive Local Area Network",
+            "author": "Joyce Spencer",
+            "year": "2016",
+            "isbn": "978-0-7043-9105-5"
+        },
+        {
+            "title": "Devolved mission-critical middleware",
+            "author": "Frank Wallace",
+            "year": "2024",
+            "isbn": "978-0-7004-9751-5"
+        },
+        {
+            "title": "Networked regional synergy",
+            "author": "Nathaniel Rose",
+            "year": "1994",
+            "isbn": "978-1-920758-98-1"
+        },
+        {
+            "title": "Upgradable exuding knowledge user",
+            "author": "Dennis Henderson",
+            "year": "1972",
+            "isbn": "978-0-19-474870-4"
+        },
+        {
+            "title": "User-friendly client-driven capability",
+            "author": "Diana Phillips",
+            "year": "2018",
+            "isbn": "978-0-471-43672-0"
+        },
+        {
+            "title": "Face-to-face fault-tolerant firmware",
+            "author": "Gary Reese",
+            "year": "2010",
+            "isbn": "978-1-75010-705-8"
+        },
+        {
+            "title": "Multi-layered optimal paradigm",
+            "author": "Matthew Simpson MD",
+            "year": "1980",
+            "isbn": "978-0-7825-3399-6"
+        },
+        {
+            "title": "Total regional alliance",
+            "author": "Toni Ford",
+            "year": "2004",
+            "isbn": "978-0-15-712839-0"
+        },
+        {
+            "title": "Virtual heuristic concept",
+            "author": "Raymond Donaldson",
+            "year": "1987",
+            "isbn": "978-1-335-71608-8"
+        },
+        {
+            "title": "Configurable 24hour synergy",
+            "author": "Norma Cunningham",
+            "year": "2017",
+            "isbn": "978-1-01-045747-3"
+        },
+        {
+            "title": "Inverse clear-thinking benchmark",
+            "author": "Michael Martin",
+            "year": "1991",
+            "isbn": "978-0-621-51293-9"
+        },
+        {
+            "title": "Sharable object-oriented product",
+            "author": "Gabrielle Owen",
+            "year": "2019",
+            "isbn": "978-0-421-27633-8"
+        },
+        {
+            "title": "Reverse-engineered logistical pricing structure",
+            "author": "Raymond Hall",
+            "year": "1980",
+            "isbn": "978-0-326-12868-8"
+        },
+        {
+            "title": "Vision-oriented encompassing Graphical User Interface",
+            "author": "Ashley Rodriguez",
+            "year": "2018",
+            "isbn": "978-1-916233-83-6"
+        },
+        {
+            "title": "Multi-tiered value-added productivity",
+            "author": "Arthur Armstrong",
+            "year": "1970",
+            "isbn": "978-0-7765-4293-5"
+        },
+        {
+            "title": "Compatible systemic support",
+            "author": "Amy Guzman",
+            "year": "2017",
+            "isbn": "978-0-287-38952-4"
+        },
+        {
+            "title": "Re-contextualized multi-tasking initiative",
+            "author": "Sherry Carroll",
+            "year": "1993",
+            "isbn": "978-1-112-96976-8"
+        },
+        {
+            "title": "Monitored optimal Graphical User Interface",
+            "author": "Mary Keller",
+            "year": "1984",
+            "isbn": "978-1-56912-722-3"
+        },
+        {
+            "title": "Intuitive intangible model",
+            "author": "Robin Thomas",
+            "year": "2015",
+            "isbn": "978-1-310-73626-1"
+        },
+        {
+            "title": "Enhanced client-server standardization",
+            "author": "Michael Briggs",
+            "year": "2004",
+            "isbn": "978-0-88700-211-3"
+        },
+        {
+            "title": "Monitored incremental policy",
+            "author": "Michael Davidson",
+            "year": "2019",
+            "isbn": "978-0-390-22618-1"
+        },
+        {
+            "title": "Multi-layered content-based contingency",
+            "author": "Jonathan Rollins",
+            "year": "1989",
+            "isbn": "978-1-80341-611-3"
+        },
+        {
+            "title": "Seamless even-keeled approach",
+            "author": "Rachel Day",
+            "year": "1988",
+            "isbn": "978-0-614-72443-1"
+        },
+        {
+            "title": "Phased client-server website",
+            "author": "Elaine Rojas",
+            "year": "1983",
+            "isbn": "978-1-4826-7987-8"
+        },
+        {
+            "title": "Organic 6thgeneration knowledge user",
+            "author": "Diana Turner",
+            "year": "1992",
+            "isbn": "978-1-83135-825-6"
+        },
+        {
+            "title": "Synchronized intangible complexity",
+            "author": "Evan Johnson",
+            "year": "2007",
+            "isbn": "978-0-7683-4341-0"
+        },
+        {
+            "title": "Extended content-based infrastructure",
+            "author": "Jonathan Gregory",
+            "year": "1999",
+            "isbn": "978-0-87211-593-4"
+        },
+        {
+            "title": "Innovative holistic capacity",
+            "author": "Alyssa Lopez",
+            "year": "1985",
+            "isbn": "978-0-14-445326-9"
+        },
+        {
+            "title": "Synchronized bifurcated conglomeration",
+            "author": "Richard Arnold",
+            "year": "1975",
+            "isbn": "978-0-445-87821-1"
+        },
+        {
+            "title": "Profound full-range artificial intelligence",
+            "author": "Diana Wong",
+            "year": "1992",
+            "isbn": "978-1-106-90041-8"
+        },
+        {
+            "title": "Extended 4thgeneration encryption",
+            "author": "Lisa Hammond",
+            "year": "1993",
+            "isbn": "978-0-10-224711-4"
+        },
+        {
+            "title": "Cloned 3rdgeneration attitude",
+            "author": "John Cruz",
+            "year": "1971",
+            "isbn": "978-1-4671-3185-8"
+        },
+        {
+            "title": "Switchable clear-thinking contingency",
+            "author": "Casey Wheeler",
+            "year": "1996",
+            "isbn": "978-1-07-210723-1"
+        },
+        {
+            "title": "Cross-platform object-oriented parallelism",
+            "author": "William Williams",
+            "year": "1986",
+            "isbn": "978-0-7780-7211-9"
+        },
+        {
+            "title": "Extended reciprocal conglomeration",
+            "author": "Eric Hinton",
+            "year": "1978",
+            "isbn": "978-1-353-88551-3"
+        },
+        {
+            "title": "Sharable local challenge",
+            "author": "Russell Dickson",
+            "year": "2015",
+            "isbn": "978-1-385-63917-7"
+        },
+        {
+            "title": "Team-oriented zero-defect synergy",
+            "author": "William Gibson",
+            "year": "1971",
+            "isbn": "978-0-929212-58-6"
+        },
+        {
+            "title": "Future-proofed fresh-thinking moderator",
+            "author": "Jessica Miller",
+            "year": "2012",
+            "isbn": "978-1-345-94165-4"
+        },
+        {
+            "title": "Persevering empowering model",
+            "author": "Barbara Lee",
+            "year": "1978",
+            "isbn": "978-0-7935-4322-9"
+        },
+        {
+            "title": "Fundamental neutral challenge",
+            "author": "Carrie Anderson",
+            "year": "1970",
+            "isbn": "978-0-517-21621-7"
+        },
+        {
+            "title": "Total foreground interface",
+            "author": "Leslie Diaz",
+            "year": "1979",
+            "isbn": "978-0-7753-5844-5"
+        },
+        {
+            "title": "De-engineered responsive migration",
+            "author": "Diana Willis",
+            "year": "2017",
+            "isbn": "978-0-477-07994-5"
+        },
+        {
+            "title": "Compatible neutral artificial intelligence",
+            "author": "Maria Walker",
+            "year": "2016",
+            "isbn": "978-0-8343-3598-1"
+        },
+        {
+            "title": "Diverse empowering flexibility",
+            "author": "Charles Greene",
+            "year": "1984",
+            "isbn": "978-0-207-02757-4"
+        },
+        {
+            "title": "Compatible 4thgeneration collaboration",
+            "author": "Tina Boyle",
+            "year": "2004",
+            "isbn": "978-1-215-84790-1"
+        },
+        {
+            "title": "Cross-platform bottom-line function",
+            "author": "Charles Powell",
+            "year": "1975",
+            "isbn": "978-1-886403-33-8"
+        },
+        {
+            "title": "Diverse hybrid moratorium",
+            "author": "Melissa Allison",
+            "year": "1994",
+            "isbn": "978-1-63212-542-2"
+        },
+        {
+            "title": "Digitized object-oriented implementation",
+            "author": "Michael Lopez",
+            "year": "2024",
+            "isbn": "978-1-62794-462-5"
+        },
+        {
+            "title": "Enterprise-wide contextually-based Graphic Interface",
+            "author": "Brittany Thornton",
+            "year": "1972",
+            "isbn": "978-1-62422-699-1"
+        },
+        {
+            "title": "Configurable system-worthy Graphic Interface",
+            "author": "Jessica English",
+            "year": "2020",
+            "isbn": "978-1-65000-108-1"
+        },
+        {
+            "title": "Public-key multi-tasking monitoring",
+            "author": "Elizabeth Murphy",
+            "year": "1992",
+            "isbn": "978-0-7806-4751-0"
+        },
+        {
+            "title": "Visionary fresh-thinking intranet",
+            "author": "Kristina Huber",
+            "year": "2001",
+            "isbn": "978-1-80370-363-3"
+        },
+        {
+            "title": "Multi-channeled foreground portal",
+            "author": "Dennis James",
+            "year": "1999",
+            "isbn": "978-0-02-716436-7"
+        },
+        {
+            "title": "Down-sized web-enabled core",
+            "author": "Alison Carney",
+            "year": "1991",
+            "isbn": "978-1-935500-53-7"
+        },
+        {
+            "title": "Persistent logistical application",
+            "author": "Thomas Hill",
+            "year": "2008",
+            "isbn": "978-1-952523-96-0"
+        },
+        {
+            "title": "Right-sized global throughput",
+            "author": "Steven Baker",
+            "year": "1997",
+            "isbn": "978-1-375-70146-4"
+        },
+        {
+            "title": "Re-contextualized disintermediate pricing structure",
+            "author": "Robert Reyes",
+            "year": "1975",
+            "isbn": "978-1-84627-661-3"
+        },
+        {
+            "title": "Decentralized user-facing productivity",
+            "author": "David Williams",
+            "year": "1987",
+            "isbn": "978-1-71867-289-5"
+        },
+        {
+            "title": "Decentralized 3rdgeneration framework",
+            "author": "Patrick Cruz",
+            "year": "2013",
+            "isbn": "978-0-86681-851-3"
+        },
+        {
+            "title": "Synergistic fresh-thinking solution",
+            "author": "James Garza",
+            "year": "2008",
+            "isbn": "978-1-58945-200-8"
+        },
+        {
+            "title": "Innovative zero tolerance analyzer",
+            "author": "Mary Foley",
+            "year": "1979",
+            "isbn": "978-1-998032-27-3"
+        },
+        {
+            "title": "Upgradable incremental knowledgebase",
+            "author": "Mariah Figueroa",
+            "year": "1988",
+            "isbn": "978-1-4634-9804-7"
+        },
+        {
+            "title": "Programmable well-modulated pricing structure",
+            "author": "Tom Gonzales",
+            "year": "2023",
+            "isbn": "978-0-681-33481-6"
+        },
+        {
+            "title": "Optional methodical open architecture",
+            "author": "Joseph Branch",
+            "year": "1980",
+            "isbn": "978-1-4817-4848-3"
+        },
+        {
+            "title": "Monitored methodical capacity",
+            "author": "Heather Simmons",
+            "year": "2009",
+            "isbn": "978-0-346-75219-1"
+        },
+        {
+            "title": "Phased static emulation",
+            "author": "Emily Solomon",
+            "year": "1971",
+            "isbn": "978-0-11-772178-4"
+        },
+        {
+            "title": "Stand-alone optimal software",
+            "author": "Tonya Snyder",
+            "year": "2025",
+            "isbn": "978-0-634-13072-4"
+        },
+        {
+            "title": "Stand-alone heuristic protocol",
+            "author": "Donna Rivas",
+            "year": "2016",
+            "isbn": "978-1-81078-710-7"
+        },
+        {
+            "title": "Customer-focused content-based help-desk",
+            "author": "Kelly Roth",
+            "year": "2023",
+            "isbn": "978-1-07-258808-5"
+        },
+        {
+            "title": "Expanded fault-tolerant firmware",
+            "author": "Anthony Davis",
+            "year": "1988",
+            "isbn": "978-0-919285-35-4"
+        },
+        {
+            "title": "Reactive cohesive service-desk",
+            "author": "Joshua Phillips",
+            "year": "2017",
+            "isbn": "978-0-632-61487-5"
+        },
+        {
+            "title": "Ergonomic fresh-thinking policy",
+            "author": "Justin Andrews",
+            "year": "2019",
+            "isbn": "978-1-76090-830-0"
+        },
+        {
+            "title": "Reactive reciprocal complexity",
+            "author": "Doris Molina",
+            "year": "2002",
+            "isbn": "978-0-211-96038-6"
+        },
+        {
+            "title": "Monitored heuristic portal",
+            "author": "Angela Cox",
+            "year": "1973",
+            "isbn": "978-0-85088-148-6"
+        },
+        {
+            "title": "Quality-focused next generation core",
+            "author": "Debra Dixon",
+            "year": "2009",
+            "isbn": "978-0-11-420213-2"
+        },
+        {
+            "title": "Persistent neutral contingency",
+            "author": "Jose Peck",
+            "year": "2002",
+            "isbn": "978-0-925924-31-5"
+        },
+        {
+            "title": "Decentralized grid-enabled open architecture",
+            "author": "Mr. James Rose DVM",
+            "year": "1982",
+            "isbn": "978-1-200-12001-9"
+        },
+        {
+            "title": "User-centric clear-thinking contingency",
+            "author": "Adam Miller",
+            "year": "2003",
+            "isbn": "978-1-66111-108-3"
+        },
+        {
+            "title": "Devolved 4thgeneration process improvement",
+            "author": "Roger Archer",
+            "year": "2001",
+            "isbn": "978-1-66868-496-2"
+        },
+        {
+            "title": "Horizontal discrete Graphic Interface",
+            "author": "Brian Miller",
+            "year": "1985",
+            "isbn": "978-1-01-780784-4"
+        },
+        {
+            "title": "Diverse static analyzer",
+            "author": "James Carter",
+            "year": "1977",
+            "isbn": "978-0-218-99308-0"
+        },
+        {
+            "title": "Optional tertiary hardware",
+            "author": "Kristine Hill",
+            "year": "1988",
+            "isbn": "978-1-07-075632-5"
+        },
+        {
+            "title": "Right-sized cohesive support",
+            "author": "Tina Jones MD",
+            "year": "1994",
+            "isbn": "978-0-698-02666-7"
+        },
+        {
+            "title": "Extended client-server capacity",
+            "author": "Michael Bowman",
+            "year": "2025",
+            "isbn": "978-0-501-27569-5"
+        },
+        {
+            "title": "Operative content-based ability",
+            "author": "Kari Caldwell",
+            "year": "2024",
+            "isbn": "978-0-9765979-7-1"
+        },
+        {
+            "title": "Switchable mission-critical array",
+            "author": "Christopher Henderson",
+            "year": "1974",
+            "isbn": "978-1-331-91607-9"
+        },
+        {
+            "title": "Future-proofed actuating neural-net",
+            "author": "Tyler Williams",
+            "year": "1991",
+            "isbn": "978-0-234-33176-7"
+        },
+        {
+            "title": "De-engineered multi-state structure",
+            "author": "Alexis Hodges",
+            "year": "2024",
+            "isbn": "978-0-08-820435-4"
+        },
+        {
+            "title": "Horizontal multi-state moderator",
+            "author": "Joseph Thompson",
+            "year": "2000",
+            "isbn": "978-1-85312-918-6"
+        },
+        {
+            "title": "Balanced regional moderator",
+            "author": "Sean White",
+            "year": "2006",
+            "isbn": "978-1-909250-04-8"
+        },
+        {
+            "title": "Optimized local concept",
+            "author": "Brian Miller",
+            "year": "1994",
+            "isbn": "978-1-05-469641-8"
+        },
+        {
+            "title": "Cross-group background flexibility",
+            "author": "Beverly Mann",
+            "year": "1976",
+            "isbn": "978-0-9880699-2-3"
+        },
+        {
+            "title": "User-friendly uniform structure",
+            "author": "Andrew Mcdaniel",
+            "year": "2017",
+            "isbn": "978-0-463-35524-4"
+        },
+        {
+            "title": "User-friendly client-driven frame",
+            "author": "Rachel Edwards",
+            "year": "2002",
+            "isbn": "978-1-154-24348-2"
+        },
+        {
+            "title": "De-engineered bottom-line instruction set",
+            "author": "Chloe Martinez",
+            "year": "2022",
+            "isbn": "978-0-19-819511-5"
+        },
+        {
+            "title": "Sharable client-driven support",
+            "author": "Carrie Hall",
+            "year": "1977",
+            "isbn": "978-1-880837-49-8"
+        },
+        {
+            "title": "Customizable intermediate standardization",
+            "author": "Miguel Rodriguez",
+            "year": "1976",
+            "isbn": "978-1-907418-23-5"
+        },
+        {
+            "title": "Re-engineered multimedia policy",
+            "author": "Hunter Martinez",
+            "year": "1970",
+            "isbn": "978-1-297-49934-0"
+        },
+        {
+            "title": "Fundamental incremental protocol",
+            "author": "Wayne Thompson",
+            "year": "2021",
+            "isbn": "978-0-626-06942-1"
+        }
+    ]
 }

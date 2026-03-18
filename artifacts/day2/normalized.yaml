@@ -1,6 +1,404 @@
-response:
-  status: success
-  data:
-    title: "DevNet Day 2 Lab Report"
-    student: "Akhmetov Miras"
-    lab_id: "D2-FORMATS"
+books:
+- author: John Clayton
+  isbn: 978-0-475-23495-7
+  title: Right-sized neutral archive
+  year: '1976'
+- author: Joyce Spencer
+  isbn: 978-0-7043-9105-5
+  title: Up-sized context-sensitive Local Area Network
+  year: '2016'
+- author: Frank Wallace
+  isbn: 978-0-7004-9751-5
+  title: Devolved mission-critical middleware
+  year: '2024'
+- author: Nathaniel Rose
+  isbn: 978-1-920758-98-1
+  title: Networked regional synergy
+  year: '1994'
+- author: Dennis Henderson
+  isbn: 978-0-19-474870-4
+  title: Upgradable exuding knowledge user
+  year: '1972'
+- author: Diana Phillips
+  isbn: 978-0-471-43672-0
+  title: User-friendly client-driven capability
+  year: '2018'
+- author: Gary Reese
+  isbn: 978-1-75010-705-8
+  title: Face-to-face fault-tolerant firmware
+  year: '2010'
+- author: Matthew Simpson MD
+  isbn: 978-0-7825-3399-6
+  title: Multi-layered optimal paradigm
+  year: '1980'
+- author: Toni Ford
+  isbn: 978-0-15-712839-0
+  title: Total regional alliance
+  year: '2004'
+- author: Raymond Donaldson
+  isbn: 978-1-335-71608-8
+  title: Virtual heuristic concept
+  year: '1987'
+- author: Norma Cunningham
+  isbn: 978-1-01-045747-3
+  title: Configurable 24hour synergy
+  year: '2017'
+- author: Michael Martin
+  isbn: 978-0-621-51293-9
+  title: Inverse clear-thinking benchmark
+  year: '1991'
+- author: Gabrielle Owen
+  isbn: 978-0-421-27633-8
+  title: Sharable object-oriented product
+  year: '2019'
+- author: Raymond Hall
+  isbn: 978-0-326-12868-8
+  title: Reverse-engineered logistical pricing structure
+  year: '1980'
+- author: Ashley Rodriguez
+  isbn: 978-1-916233-83-6
+  title: Vision-oriented encompassing Graphical User Interface
+  year: '2018'
+- author: Arthur Armstrong
+  isbn: 978-0-7765-4293-5
+  title: Multi-tiered value-added productivity
+  year: '1970'
+- author: Amy Guzman
+  isbn: 978-0-287-38952-4
+  title: Compatible systemic support
+  year: '2017'
+- author: Sherry Carroll
+  isbn: 978-1-112-96976-8
+  title: Re-contextualized multi-tasking initiative
+  year: '1993'
+- author: Mary Keller
+  isbn: 978-1-56912-722-3
+  title: Monitored optimal Graphical User Interface
+  year: '1984'
+- author: Robin Thomas
+  isbn: 978-1-310-73626-1
+  title: Intuitive intangible model
+  year: '2015'
+- author: Michael Briggs
+  isbn: 978-0-88700-211-3
+  title: Enhanced client-server standardization
+  year: '2004'
+- author: Michael Davidson
+  isbn: 978-0-390-22618-1
+  title: Monitored incremental policy
+  year: '2019'
+- author: Jonathan Rollins
+  isbn: 978-1-80341-611-3
+  title: Multi-layered content-based contingency
+  year: '1989'
+- author: Rachel Day
+  isbn: 978-0-614-72443-1
+  title: Seamless even-keeled approach
+  year: '1988'
+- author: Elaine Rojas
+  isbn: 978-1-4826-7987-8
+  title: Phased client-server website
+  year: '1983'
+- author: Diana Turner
+  isbn: 978-1-83135-825-6
+  title: Organic 6thgeneration knowledge user
+  year: '1992'
+- author: Evan Johnson
+  isbn: 978-0-7683-4341-0
+  title: Synchronized intangible complexity
+  year: '2007'
+- author: Jonathan Gregory
+  isbn: 978-0-87211-593-4
+  title: Extended content-based infrastructure
+  year: '1999'
+- author: Alyssa Lopez
+  isbn: 978-0-14-445326-9
+  title: Innovative holistic capacity
+  year: '1985'
+- author: Richard Arnold
+  isbn: 978-0-445-87821-1
+  title: Synchronized bifurcated conglomeration
+  year: '1975'
+- author: Diana Wong
+  isbn: 978-1-106-90041-8
+  title: Profound full-range artificial intelligence
+  year: '1992'
+- author: Lisa Hammond
+  isbn: 978-0-10-224711-4
+  title: Extended 4thgeneration encryption
+  year: '1993'
+- author: John Cruz
+  isbn: 978-1-4671-3185-8
+  title: Cloned 3rdgeneration attitude
+  year: '1971'
+- author: Casey Wheeler
+  isbn: 978-1-07-210723-1
+  title: Switchable clear-thinking contingency
+  year: '1996'
+- author: William Williams
+  isbn: 978-0-7780-7211-9
+  title: Cross-platform object-oriented parallelism
+  year: '1986'
+- author: Eric Hinton
+  isbn: 978-1-353-88551-3
+  title: Extended reciprocal conglomeration
+  year: '1978'
+- author: Russell Dickson
+  isbn: 978-1-385-63917-7
+  title: Sharable local challenge
+  year: '2015'
+- author: William Gibson
+  isbn: 978-0-929212-58-6
+  title: Team-oriented zero-defect synergy
+  year: '1971'
+- author: Jessica Miller
+  isbn: 978-1-345-94165-4
+  title: Future-proofed fresh-thinking moderator
+  year: '2012'
+- author: Barbara Lee
+  isbn: 978-0-7935-4322-9
+  title: Persevering empowering model
+  year: '1978'
+- author: Carrie Anderson
+  isbn: 978-0-517-21621-7
+  title: Fundamental neutral challenge
+  year: '1970'
+- author: Leslie Diaz
+  isbn: 978-0-7753-5844-5
+  title: Total foreground interface
+  year: '1979'
+- author: Diana Willis
+  isbn: 978-0-477-07994-5
+  title: De-engineered responsive migration
+  year: '2017'
+- author: Maria Walker
+  isbn: 978-0-8343-3598-1
+  title: Compatible neutral artificial intelligence
+  year: '2016'
+- author: Charles Greene
+  isbn: 978-0-207-02757-4
+  title: Diverse empowering flexibility
+  year: '1984'
+- author: Tina Boyle
+  isbn: 978-1-215-84790-1
+  title: Compatible 4thgeneration collaboration
+  year: '2004'
+- author: Charles Powell
+  isbn: 978-1-886403-33-8
+  title: Cross-platform bottom-line function
+  year: '1975'
+- author: Melissa Allison
+  isbn: 978-1-63212-542-2
+  title: Diverse hybrid moratorium
+  year: '1994'
+- author: Michael Lopez
+  isbn: 978-1-62794-462-5
+  title: Digitized object-oriented implementation
+  year: '2024'
+- author: Brittany Thornton
+  isbn: 978-1-62422-699-1
+  title: Enterprise-wide contextually-based Graphic Interface
+  year: '1972'
+- author: Jessica English
+  isbn: 978-1-65000-108-1
+  title: Configurable system-worthy Graphic Interface
+  year: '2020'
+- author: Elizabeth Murphy
+  isbn: 978-0-7806-4751-0
+  title: Public-key multi-tasking monitoring
+  year: '1992'
+- author: Kristina Huber
+  isbn: 978-1-80370-363-3
+  title: Visionary fresh-thinking intranet
+  year: '2001'
+- author: Dennis James
+  isbn: 978-0-02-716436-7
+  title: Multi-channeled foreground portal
+  year: '1999'
+- author: Alison Carney
+  isbn: 978-1-935500-53-7
+  title: Down-sized web-enabled core
+  year: '1991'
+- author: Thomas Hill
+  isbn: 978-1-952523-96-0
+  title: Persistent logistical application
+  year: '2008'
+- author: Steven Baker
+  isbn: 978-1-375-70146-4
+  title: Right-sized global throughput
+  year: '1997'
+- author: Robert Reyes
+  isbn: 978-1-84627-661-3
+  title: Re-contextualized disintermediate pricing structure
+  year: '1975'
+- author: David Williams
+  isbn: 978-1-71867-289-5
+  title: Decentralized user-facing productivity
+  year: '1987'
+- author: Patrick Cruz
+  isbn: 978-0-86681-851-3
+  title: Decentralized 3rdgeneration framework
+  year: '2013'
+- author: James Garza
+  isbn: 978-1-58945-200-8
+  title: Synergistic fresh-thinking solution
+  year: '2008'
+- author: Mary Foley
+  isbn: 978-1-998032-27-3
+  title: Innovative zero tolerance analyzer
+  year: '1979'
+- author: Mariah Figueroa
+  isbn: 978-1-4634-9804-7
+  title: Upgradable incremental knowledgebase
+  year: '1988'
+- author: Tom Gonzales
+  isbn: 978-0-681-33481-6
+  title: Programmable well-modulated pricing structure
+  year: '2023'
+- author: Joseph Branch
+  isbn: 978-1-4817-4848-3
+  title: Optional methodical open architecture
+  year: '1980'
+- author: Heather Simmons
+  isbn: 978-0-346-75219-1
+  title: Monitored methodical capacity
+  year: '2009'
+- author: Emily Solomon
+  isbn: 978-0-11-772178-4
+  title: Phased static emulation
+  year: '1971'
+- author: Tonya Snyder
+  isbn: 978-0-634-13072-4
+  title: Stand-alone optimal software
+  year: '2025'
+- author: Donna Rivas
+  isbn: 978-1-81078-710-7
+  title: Stand-alone heuristic protocol
+  year: '2016'
+- author: Kelly Roth
+  isbn: 978-1-07-258808-5
+  title: Customer-focused content-based help-desk
+  year: '2023'
+- author: Anthony Davis
+  isbn: 978-0-919285-35-4
+  title: Expanded fault-tolerant firmware
+  year: '1988'
+- author: Joshua Phillips
+  isbn: 978-0-632-61487-5
+  title: Reactive cohesive service-desk
+  year: '2017'
+- author: Justin Andrews
+  isbn: 978-1-76090-830-0
+  title: Ergonomic fresh-thinking policy
+  year: '2019'
+- author: Doris Molina
+  isbn: 978-0-211-96038-6
+  title: Reactive reciprocal complexity
+  year: '2002'
+- author: Angela Cox
+  isbn: 978-0-85088-148-6
+  title: Monitored heuristic portal
+  year: '1973'
+- author: Debra Dixon
+  isbn: 978-0-11-420213-2
+  title: Quality-focused next generation core
+  year: '2009'
+- author: Jose Peck
+  isbn: 978-0-925924-31-5
+  title: Persistent neutral contingency
+  year: '2002'
+- author: Mr. James Rose DVM
+  isbn: 978-1-200-12001-9
+  title: Decentralized grid-enabled open architecture
+  year: '1982'
+- author: Adam Miller
+  isbn: 978-1-66111-108-3
+  title: User-centric clear-thinking contingency
+  year: '2003'
+- author: Roger Archer
+  isbn: 978-1-66868-496-2
+  title: Devolved 4thgeneration process improvement
+  year: '2001'
+- author: Brian Miller
+  isbn: 978-1-01-780784-4
+  title: Horizontal discrete Graphic Interface
+  year: '1985'
+- author: James Carter
+  isbn: 978-0-218-99308-0
+  title: Diverse static analyzer
+  year: '1977'
+- author: Kristine Hill
+  isbn: 978-1-07-075632-5
+  title: Optional tertiary hardware
+  year: '1988'
+- author: Tina Jones MD
+  isbn: 978-0-698-02666-7
+  title: Right-sized cohesive support
+  year: '1994'
+- author: Michael Bowman
+  isbn: 978-0-501-27569-5
+  title: Extended client-server capacity
+  year: '2025'
+- author: Kari Caldwell
+  isbn: 978-0-9765979-7-1
+  title: Operative content-based ability
+  year: '2024'
+- author: Christopher Henderson
+  isbn: 978-1-331-91607-9
+  title: Switchable mission-critical array
+  year: '1974'
+- author: Tyler Williams
+  isbn: 978-0-234-33176-7
+  title: Future-proofed actuating neural-net
+  year: '1991'
+- author: Alexis Hodges
+  isbn: 978-0-08-820435-4
+  title: De-engineered multi-state structure
+  year: '2024'
+- author: Joseph Thompson
+  isbn: 978-1-85312-918-6
+  title: Horizontal multi-state moderator
+  year: '2000'
+- author: Sean White
+  isbn: 978-1-909250-04-8
+  title: Balanced regional moderator
+  year: '2006'
+- author: Brian Miller
+  isbn: 978-1-05-469641-8
+  title: Optimized local concept
+  year: '1994'
+- author: Beverly Mann
+  isbn: 978-0-9880699-2-3
+  title: Cross-group background flexibility
+  year: '1976'
+- author: Andrew Mcdaniel
+  isbn: 978-0-463-35524-4
+  title: User-friendly uniform structure
+  year: '2017'
+- author: Rachel Edwards
+  isbn: 978-1-154-24348-2
+  title: User-friendly client-driven frame
+  year: '2002'
+- author: Chloe Martinez
+  isbn: 978-0-19-819511-5
+  title: De-engineered bottom-line instruction set
+  year: '2022'
+- author: Carrie Hall
+  isbn: 978-1-880837-49-8
+  title: Sharable client-driven support
+  year: '1977'
+- author: Miguel Rodriguez
+  isbn: 978-1-907418-23-5
+  title: Customizable intermediate standardization
+  year: '1976'
+- author: Hunter Martinez
+  isbn: 978-1-297-49934-0
+  title: Re-engineered multimedia policy
+  year: '1970'
+- author: Wayne Thompson
+  isbn: 978-0-626-06942-1
+  title: Fundamental incremental protocol
+  year: '2021'
+student:
+  name: Akhmetov Miras
+  token_hash8: 1fa08bd

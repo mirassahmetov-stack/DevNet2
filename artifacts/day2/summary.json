@@ -1,21 +1,11 @@
 {
-  "schema_version": "1.0",
-  "generated_utc": "2026-03-17T10:55:00Z",
-  "student": {
-    "name": "Akhmetov Miras",
-    "group": "ib-23-5b",
-    "token_hash8": "1A3F"
-  },
-  "input": {
-    "path": "artifacts/day1/response.json"
-  },
-  "outputs": {
-    "normalized_json": "artifacts/day2/normalized.json",
-    "normalized_yaml": "artifacts/day2/normalized.yaml",
-    "normalized_xml": "artifacts/day2/normalized.xml",
-    "normalized_csv": "artifacts/day2/normalized.csv"
-  },
-  "computed": {
-    "title_len": 24
-  }
+    "status": "completed",
+    "day": 2,
+    "files_generated": [
+        "normalized.json",
+        "normalized.csv",
+        "normalized.yaml",
+        "normalized.xml"
+    ],
+    "student": "Akhmetov Miras"
 }

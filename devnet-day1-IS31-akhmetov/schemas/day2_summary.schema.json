@@ -1,0 +1,17 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Day 2 Summary Schema",
+  "type": "object",
+  "required": ["schema_version", "generated_utc", "student", "input", "outputs", "computed"],
+  "properties": {
+    "schema_version": { "type": "string" },
+    "generated_utc": { "type": "string" },
+    "student": {
+      "type": "object",
+      "required": ["name", "group", "token_hash8"]
+    },
+    "input": { "type": "object" },
+    "outputs": { "type": "object" },
+    "computed": { "type": "object" }
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "status": "completed",
+    "day": 2,
+    "files_generated": [
+        "normalized.json",
+        "normalized.csv",
+        "normalized.yaml",
+        "normalized.xml"
+    ],
+    "student": "Akhmetov Miras"
+}
